@@ -7,18 +7,18 @@
 
 1. Скомпилировать код (средствами CMake):
 
-cd Rudakov_TZ/build
+cd ClientServerTask/build
 cmake ..
 make
 
 2. Запустить программу №1 (клиент):
 
-cd Rudakov_TZ/build/client
+cd ClientServerTask/build/client
 ./prog1
 
 3. Запустить программу №2 (сервер):
 
-cd Rudakov_TZ/build/server
+cd ClientServerTask/build/server
 ./prog2
 
 ## Парсинг данных
